@@ -1,0 +1,15 @@
+set={2,3,4,5,5,6,7,7,7,9}
+for i in set:
+    print(i)
+set.add("hi")
+print(set)
+set.update('hello')
+print(set)
+set.remove(5)
+print(set)
+set.discard(7)
+print(set)
+set.pop()
+print(set)
+set.clear()
+print(set)
