@@ -14,4 +14,4 @@ ws=w_s()
 ws.info()
 ws.imp_info()
 ws.stu_info()
-ws.w_s_info
+ws.w_s_info()
