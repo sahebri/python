@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-class vehicle:
+class vehicle(ABC):
     @abstractmethod
     def start(self):
         pass
